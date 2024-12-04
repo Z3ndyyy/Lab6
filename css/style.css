@@ -1,0 +1,44 @@
+body{
+    background-color: blanchedalmond;
+}
+
+.maps{
+    padding: 20px;
+}
+
+.video{
+    padding: 20px;
+   
+}
+
+.mapsgo{
+    padding-top: 20px;
+    padding-right: 20px;
+}
+
+.march{
+    padding-top: 20px;
+    padding-right: 20px;
+}
+
+.weather{
+    padding: 20px;
+}
+
+.audio{
+    padding: 20px;
+}
+.icon{
+    padding: 20px;
+    position: flex;
+
+}
+.container {
+    display: flex;
+    justify-content: space-between; 
+  }
+
+  .containertop {
+    display: flex;
+    justify-content: space-between; 
+  }
